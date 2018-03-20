@@ -1,1 +1,1 @@
-# business-intelligence
+# business-intelligence-data-science
